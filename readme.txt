@@ -50,7 +50,7 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-= Do this plugin require the Genesis Framework? =
+= Does this plugin require the Genesis Framework? =
 
 Yes. Install the plugin into your active Genesis Child theme.
 

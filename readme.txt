@@ -60,7 +60,7 @@ Look in your Dashboard under Comments for a house icon with the name of your cus
 
 = Is this plugin translation ready? =
 
-The code is in place, but there are still phrases in the plugin that need to be updated.
+Yes. The code is in place.
 
 ==Changelog==
 

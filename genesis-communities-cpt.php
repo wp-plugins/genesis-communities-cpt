@@ -14,7 +14,7 @@
  *
  * Plugin Name:       Genesis Communities CPT
  * Plugin URI:        https://github.com/savvyjackie/genesis-communities-cpt
- * Description:       Adds a custom post type for Communities to any Genesis Child Theme. Includes Featured Communities Widget, Custom Archive Page and ability to edit the Custom Post Type name and slug url.
+ * Description:       Adds a custom post type for Communities to any Genesis Child Theme. Includes Featured Widget, Custom Archive Page and ability to edit slug url.
  * Version:           0.6.2
  * Author:            Jackie D'Elia
  * Author URI:        http://www.savvyjackiedesigns.com

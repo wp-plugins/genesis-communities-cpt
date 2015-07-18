@@ -5,7 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: genesis, real estate, communities, custom post type
 Requires at least: 4.0.0
 Tested up to: 4.2.2
-Stable tag: 0.6.0
+Stable tag: 0.6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,6 +62,9 @@ The code is in place, but there are still phrases in the plugin that need to be 
 
 ==Changelog==
 
+= 0.6.1 =
+Removed test code message on some pages.
+
 = 0.6.0 =
 Updated plugin for translations. New features added for archive page. Some file names were changed.
 
@@ -95,6 +98,9 @@ Updated plugin with function prefix to avoid conflicts. Updated Readme.txt and i
 Initial Release.
 
 ==Upgrade Notice==
+
+= 0.6.1 =
+Bug fix. Removed test code message on some pages.
 
 = 0.6.0 =
 Updated plugin for translations. New features added for archive page. Some file names were changed.

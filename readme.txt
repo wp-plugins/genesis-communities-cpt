@@ -11,30 +11,31 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-This plugin adds a Community Custom Post Type to a Genesis Child theme, similar to the one in the Winning Agent Pro theme by Carrie Dils. You can change the name of the custom post type and the name of the slug, making this a very versatile plugin. Easily rename it to Portfolio, Projects, Towns, Cities, Neighborhoods, etc. Includes a widget to display your custom post type. Archive page settings includes changing the name of the slug.
+This plugin adds a Community Custom Post Type to a Genesis Child theme, similar to the one in the **Winning Agent Pro theme by Carrie Dils**. You can change the name of the custom post type and the name of the slug, making this a very versatile plugin. Easily rename it to Portfolio, Projects, Towns, Cities, Neighborhoods, etc. Includes a widget to display your custom post type. Archive page settings includes changing the name of the slug, and some nice sorting options.
 
-Note: This plugin requires the Genesis Framework. 
+**Note: This plugin requires the Genesis Framework.**
 
-CUSTOM POST TYPE NAME AND SLUG
+**CUSTOM POST TYPE NAME AND SLUG**
 
-You can choose the name you want to use for the slug URL under Communities -> Settings. It defaults to ‘communities’. 
+You can choose the name you want to use for the slug URL under Communities -> Settings. It defaults to ‘communities’.
+ 
 You can also change the  singular and plural name of the custom post type. For example if Towns make more sense for you, you can change the singular name to ‘Town’, plural name to ‘Towns’ and the slug to ‘towns’. This makes this plugin versatile as it can be used outside of real estate. Other uses, portfolio, projects, etc.
 
-See example site: http://communities.savvyjackie.com/
+See example site: [Genesis Sample Theme](http://communities.savvyjackie.com/)
 
-STYLESHEET 
+**STYLESHEET**
 
 A stylesheet is included and if you prefer to use your own stylesheet, you can deregister it under Communities -> Settings. This deactivates the stylesheet. You may copy the css styles from the awp-communities.css file in the css folder of the plugin directory and paste them in your theme’s stylesheet.
 
-FEATURED COMMUNITIES WIDGET
+**FEATURED COMMUNITIES WIDGET**
 
 Adds a widget for sidebar or for using on the home page. Includes a random sort option, along with sorting by title, date, post_id, and menu_order. Option to include page title, the featured image with choice of sizes, and whether to include any content. CSS is style for using this widget in the sidebar and on the home page.
 
-COMMUNITY ARCHIVE PAGE
+**COMMUNITY ARCHIVE PAGE**
 
 Lots of sorting options for this page. Choose them in the Communities -> Settings page. Defaults to sorting by title (ascending A-Z).
 
-See example site: http://communities.savvyjackie.com/neighborhoods/
+See example site: [Genesis Sample Theme Archive Page](http://communities.savvyjackie.com/neighborhoods/)
 
 Will display communities four across on desktop and responsive for smaller viewport widths. (This keeps page load times fast). Includes a random sort option, along with sorting by title, date, post_id, and menu_order. You can change the number of posts per page in the Communities -> Settings page.
 
@@ -61,6 +62,12 @@ Look in your Dashboard under Comments for a house icon with the name of your cus
 = Is this plugin translation ready? =
 
 Yes. The code is in place.
+
+
+== Screenshots ==
+1. Sample home page using the Genesis Communities CPT Widget.
+2. Sample Archive page for Genesis Communities CPT.
+3. Sample Detail page for Genesis Communities CPT.
 
 ==Changelog==
 

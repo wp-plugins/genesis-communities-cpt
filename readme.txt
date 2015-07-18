@@ -2,7 +2,7 @@
 
 Contributors: JDELIA
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3SHMWYFBDVPYU
-Tags: genesis, real estate, communities, custom post type
+Tags: genesis, real estate, genesis framework, communities, towns, portfolio, custom post type
 Requires at least: 4.0.0
 Tested up to: 4.2.2
 Stable tag: 0.6.1
@@ -13,12 +13,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin adds a Community Custom Post Type to a Genesis Child theme, similar to the one in the Winning Agent Pro theme by Carrie Dils. You can change the name of the custom post type and the name of the slug, making this a very versatile plugin. Easily rename it to Portfolio, Projects, Towns, Cities, Neighborhoods, etc. Includes a widget to display your custom post type. Archive page settings includes changing the name of the slug.
 
+Note: This plugin requires the Genesis Framework. 
+
 CUSTOM POST TYPE NAME AND SLUG
 
 You can choose the name you want to use for the slug URL under Communities -> Settings. It defaults to ‘communities’. 
 You can also change the  singular and plural name of the custom post type. For example if Towns make more sense for you, you can change the singular name to ‘Town’, plural name to ‘Towns’ and the slug to ‘towns’. This makes this plugin versatile as it can be used outside of real estate. Other uses, portfolio, projects, etc.
 
-Example: http://communities.savvyjackie.com/
+See example site: http://communities.savvyjackie.com/
 
 STYLESHEET 
 
@@ -30,11 +32,11 @@ Adds a widget for sidebar or for using on the home page. Includes a random sort 
 
 COMMUNITY ARCHIVE PAGE
 
-Sorts by title (ascending A-Z).
+Lots of sorting options for this page. Choose them in the Communities -> Settings page. Defaults to sorting by title (ascending A-Z).
 
-Example: http://communities.savvyjackie.com/neighborhoods/
+See example site: http://communities.savvyjackie.com/neighborhoods/
 
-Will display communities four across on desktop and responsive for smaller viewport widths. (This keeps page load times fast). Includes a random sort option, along with sorting by title, date, post_id, and menu_order. You can change the number of posts per page.
+Will display communities four across on desktop and responsive for smaller viewport widths. (This keeps page load times fast). Includes a random sort option, along with sorting by title, date, post_id, and menu_order. You can change the number of posts per page in the Communities -> Settings page.
 
 == Installation ==
 

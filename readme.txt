@@ -2,7 +2,7 @@
 
 Contributors: JDELIA
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WRXXR5TR8NXQW
-Tags: genesis, real estate, genesis framework, communities, towns, portfolio, custom post type
+Tags: genesis, real estate, genesis framework, communities, neighborhoods, towns, portfolio, properties, projects, custom post type, CPT
 Requires at least: 4.0.0
 Tested up to: 4.2.2
 Stable tag: 0.6.3
